@@ -1,4 +1,6 @@
-## Hi there 👋
+#Mitravarun
+This is my first Git Repository.
+Author - Mitravarun 
 
 <!--
 **Mitravarun007/Mitravarun007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
